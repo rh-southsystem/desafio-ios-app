@@ -6,11 +6,10 @@ Criar um app que apresente os itens abaixo:
  - Recuperar informações de uma API.
  - Listagem de itens de forma ordenada.
  - Poder selecionar um desses itens e ver uma descrição do mesmo.
- - Usar uma interface adaptável aos variados tamanhos de tela.
- - Seguir padrão MVC, preferencialmente.
- - Recomendamos que use a api da Marvel (https://developer.marvel.com/documentation/getting_started) como fonte de dados a serem recuperados. 
+ - Interface adaptável.
+ - Seguir padrão MVVM, preferencialmente.
 
-Se preferir pode ser usado qualquer outra api disponível que atenda seus requisitos, apenas lembre-se que preferencialmente ela deve ser publica para que esteja disponível quando formos avaliar seu trabalho.
+Pode ser usado qualquer api disponível que atenda seus requisitos, apenas lembre-se que preferencialmente ela deve ser publica para que esteja disponível quando formos avaliar seu trabalho.
 
 ### Critérios de Avaliação
  - Organização do código, classes e padrão de arquitetura
