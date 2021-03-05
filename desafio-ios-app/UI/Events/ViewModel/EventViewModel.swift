@@ -14,7 +14,6 @@ enum EventStatus {
     case genericError
 }
 
-
 class EventViewModel {
     let useCase: EventUseCaseProtocol
     let subjectError = PublishSubject<String>()
